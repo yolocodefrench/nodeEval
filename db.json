@@ -1,0 +1,64 @@
+{
+    "users": [
+        {
+            "id": 0,
+            "name": "pierre",
+            "password": "azerty"
+        },
+        {
+            "id": 1,
+            "name": "pierre",
+            "password": "azertyer\"'r"
+        }
+    ],
+    "items": [
+        {
+            "label": "testeee,hgefkjzhefkhzeflkuerglkerg",
+            "image": "http://pierre-chene.fr/img/articles/ip.png",
+            "description": "test",
+            "id": 0
+        },
+        {
+            "label": "testeee,hgefkjzhefkhzeflkuerglkerg",
+            "image": "http://pierre-chene.fr/img/articles/ip.png",
+            "description": "test",
+            "id": 1
+        },
+        {
+            "label": "testeee,hgefkjzhefkhzeflkuerglkerg",
+            "image": "http://pierre-chene.fr/img/articles/ip.png",
+            "description": "test",
+            "id": 2
+        },
+        {
+            "label": "test",
+            "image": "http://pierre-chene.fr/img/articles/ip.png",
+            "description": "test",
+            "id": 3
+        },
+        {
+            "label": "testtest",
+            "image": "http://pierre-chene.fr/img/articles/ip.png",
+            "description": "test",
+            "id": 4
+        },
+        {
+            "label": "testezrzer",
+            "image": "http://pierre-chene.fr/img/articles/ip.png",
+            "description": "test",
+            "id": 5
+        }
+    ],
+    "lists": [
+        {
+            "id": 1,
+            "name": "testejlrhfergfzerzerrer",
+            "user": "0",
+            "items": [
+                2,
+                3,
+                4
+            ]
+        }
+    ]
+}
