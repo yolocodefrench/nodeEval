@@ -1,0 +1,27 @@
+{
+  "name": "nodeapi",
+  "version": "1.0.0",
+  "description": "Api crud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yolocodefrench/nodeEval.git"
+  },
+  "author": "Pierre Chéné",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yolocodefrench/nodeEval/issues"
+  },
+  "homepage": "https://github.com/yolocodefrench/nodeEval#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "config": "^2.0.1",
+    "jsonwebtoken": "^8.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.5"
+  }
+}
