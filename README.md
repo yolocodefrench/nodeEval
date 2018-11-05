@@ -1,1 +1,1 @@
-"Je m'appelle Pierr Ch‚n‚" 
+Je m'appelle Pierre ChÃ©nÃ© 
