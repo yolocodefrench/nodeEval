@@ -6,6 +6,9 @@ let jwt = require('jsonwebtoken');
 let config = require('config');
 let fs = require('fs')
 let app = express();
+const MongoConnector = require('./db.js')
+
+MongoConnector.init()
 
 var bodyParser = require('body-parser');
 app.use(bodyParser.json()); // support json encoded bodies

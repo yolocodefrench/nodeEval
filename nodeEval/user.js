@@ -1,12 +1,6 @@
-class User {
-    constructeur(){
-        this.id = 0;
-        this.name = '';
-        this.password = '';
-    }
-    
-}
-
-module.exports.user = function () {
-    return new User();
-};
+const studentSchema = new mongoose.Schema({
+    name: String,
+    password: String
+  })
+  
+module.exports.studentSchema;
