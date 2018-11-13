@@ -3,3 +3,9 @@ Il y a deux comptes qui ont commité, c'est juste qu'il y a un bug depuis 3 ans 
 
 Pour récupérerun token:
   - il faut faire une requete post sur la route "/"en passant en parametre, le nom et le mot de pase d'un des utilisateurs
+
+#Edit
+
+La branche mongo, est la deuxième partie du projet, je m'excuse de ne pas m'etre exprimé correctement
+Cordialement
+Pierre Chéné
